@@ -2,7 +2,7 @@ Title
 
 Week 2 – Security Planning
 
-Content to write:
+Content to write
 
 Operating Systems security is an essential part of system administration.
 In this week, I learned about basic security concepts and why planning security early is important.
