@@ -1,4 +1,5 @@
-Title:
+Title
+
 Week 3 – Application Selection
 
 What I learned
