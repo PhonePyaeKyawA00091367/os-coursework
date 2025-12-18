@@ -1,4 +1,5 @@
-Title:
+Title
+
 Week 7 – Security Audit
 
 What I learned
